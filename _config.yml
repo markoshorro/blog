@@ -1,1 +1,24 @@
-theme: jekyll-theme-cayman
+# Site settings
+title: "Blog Markos Horro"
+description: >
+  Reflexións. Reflexiones. Thoughts. <small>Galego. Español. English.</small>
+
+author: Markos Horro
+email: marcos.horro@udc.es
+twitter_username: markoshorro
+github_username: markoshorro
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://blog.marcoshorro.com" # the base hostname & protocol for your site
+
+google_analytics_id: G-KGBS3M86LM
+
+# Build settings
+include: [_pages]
+markdown: kramdown
+permalink: /:year/:month/:title.html
+
+sass:
+  style: compressed
+
+exclude: [vendor]
