@@ -4,6 +4,7 @@ title: "Algo En Prosa"
 description: "No hacía ni frío ni calor."
 date: 2010-04-09
 tags: prose
+category: "prose"
 comments: true
 ---
 

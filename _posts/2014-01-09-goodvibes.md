@@ -3,7 +3,8 @@ layout: post
 title: "It Is Gonna Be A Long Time..."
 description: "Elton John"
 date: 2014-01-09
-tags: prosa
+tags: prose
+category: "prose"
 comments: true
 ---
 

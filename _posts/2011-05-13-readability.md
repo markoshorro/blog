@@ -3,7 +3,8 @@ layout: post
 title: "Mañana Será Otro Día"
 description: "Otro día igual."
 date: 2011-05-13
-tags: prosa
+tags: "prose"
+category: "prose"
 comments: true
 ---
 

@@ -3,7 +3,8 @@ layout: post
 title: "Curvatura"
 description: "Como las matemáticas."
 date: 2011-06-20
-tags: prosa
+tags: prose
+category: "prose"
 comments: true
 ---
 

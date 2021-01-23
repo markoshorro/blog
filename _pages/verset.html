@@ -1,0 +1,21 @@
+---
+layout: page
+title: Verset
+permalink: /Verset/
+---
+
+<section class="c-archives">
+  <link rel="shortcut icon" href="" />
+  {% for post in site.posts %} {% if post.category != "verset" %} {% continue %}
+  {% endif %}
+  <li class="c-archives__item">
+    <h3>
+      <a href="{{ post.url | prepend: site.baseurl }}">{{post.title}}</a> ·
+      <small>{{post.tags}}</small>
+      <br />
+      <small>{{post.description}}</small>
+    </h3>
+    <p>{{ post.date | date: "%b %-d, %Y" }}</p>
+  </li>
+  {% endfor %}
+</section>

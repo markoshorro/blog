@@ -4,6 +4,7 @@ title: "Do You Think This Is Gonna Be A Good World?"
 description: "Tiré mi enésima cerveza de la tarde y escribí esta mierda."
 date: 2019-06-03
 tags: prose
+category: "prose"
 comments: true
 ---
 

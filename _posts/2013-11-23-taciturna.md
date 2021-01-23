@@ -3,7 +3,8 @@ layout: post
 title: "Taciturna"
 description: "La Luna."
 date: 2013-11-05
-tags: prosa
+tags: prose
+category: "prose"
 comments: true
 ---
 
